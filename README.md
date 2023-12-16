@@ -3,7 +3,7 @@ Made a simple QR Code Generator using JS and Node.
 
 Overview
 --------
-* Generates a QR code as a png in the file called "URL.png" along with its URL in "URL.txt".
+* Generates a QR code as a png in the file called "qr_img.png" along with its URL in "URL.txt".
 
 Installing
 ---------
